@@ -19,7 +19,7 @@ Nemesis is an educational web platform designed as a fictional betting house whe
 
 ## Getting Started 
 These instructions will allow you to get a working copy of the project on your local machine for development and testing purposes.
-### Installation and Usage 🔧
+### Installation and Usage 
 1. **Clone or download** the repository to your computer.
 
 
